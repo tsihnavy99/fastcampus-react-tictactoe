@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fastcampus-react-tictactoe/static/css/main.02298a86.css",
+    "main.js": "/fastcampus-react-tictactoe/static/js/main.bccab799.js",
+    "static/js/787.56048de0.chunk.js": "/fastcampus-react-tictactoe/static/js/787.56048de0.chunk.js",
+    "index.html": "/fastcampus-react-tictactoe/index.html",
+    "main.02298a86.css.map": "/fastcampus-react-tictactoe/static/css/main.02298a86.css.map",
+    "main.bccab799.js.map": "/fastcampus-react-tictactoe/static/js/main.bccab799.js.map",
+    "787.56048de0.chunk.js.map": "/fastcampus-react-tictactoe/static/js/787.56048de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02298a86.css",
+    "static/js/main.bccab799.js"
+  ]
+}
